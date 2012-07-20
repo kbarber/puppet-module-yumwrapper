@@ -1,7 +1,8 @@
-This is a wrapper around the package provide, that gives an example of how
+This is a wrapper around the package provider, that gives an example of how
 to emulate additional switches and manually pass them to yum.
 
-== Usage
+Usage
+=====
 
 To install a package normally:
 
